@@ -1,0 +1,10 @@
+C:\Users\aniru\source\repos\TestDatabase-Aniruddha\TestDatabase-Aniruddha\bin\Debug\TestDatabase-Aniruddha.dacpac
+C:\Users\aniru\source\repos\TestDatabase-Aniruddha\TestDatabase-Aniruddha\bin\Debug\TestDatabase_Aniruddha.dll
+C:\Users\aniru\source\repos\TestDatabase-Aniruddha\TestDatabase-Aniruddha\bin\Debug\TestDatabase_Aniruddha.pdb
+C:\Users\aniru\source\repos\TestDatabase-Aniruddha\TestDatabase-Aniruddha\obj\Debug\TestDatabase-Aniruddha.sqlproj.AssemblyReference.cache
+C:\Users\aniru\source\repos\TestDatabase-Aniruddha\TestDatabase-Aniruddha\obj\Debug\Model.xml
+C:\Users\aniru\source\repos\TestDatabase-Aniruddha\TestDatabase-Aniruddha\obj\Debug\refactor.xml
+C:\Users\aniru\source\repos\TestDatabase-Aniruddha\TestDatabase-Aniruddha\obj\Debug\postdeploy.sql
+C:\Users\aniru\source\repos\TestDatabase-Aniruddha\TestDatabase-Aniruddha\obj\Debug\predeploy.sql
+C:\Users\aniru\source\repos\TestDatabase-Aniruddha\TestDatabase-Aniruddha\obj\Debug\TestDatabase_Aniruddha.dll
+C:\Users\aniru\source\repos\TestDatabase-Aniruddha\TestDatabase-Aniruddha\obj\Debug\TestDatabase_Aniruddha.pdb
